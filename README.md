@@ -29,14 +29,8 @@
       <img width="109px%" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
   
-  <br>
-<br>  
 
-# 🐍 Commit Snake
 
-<br>
-
-![Snake animation](https://github.com/Marcos-Macedo444/Marcos-Macedo444/blob/output/github-contribution-grid-snake.svg)
 
 
 
