@@ -22,13 +22,13 @@
   <br>
   
   # ☁️ Contatos ☁️
-  
-  [<img  alt="Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](marcosfilipe.macedo@gmail.com)
+    
   [<img  alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/marcos-mac%C3%AAdo-701137265/)
   <a href = "https://www.instagram.com/marcos_9898_/" target="_blank">
       <img width="109px%" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-  
+  <a href = "mailto: marcosfilipe.macedo@gmail.com">
+    <img width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
   <br>
   
 # 🐍 Commit Snake
