@@ -6,9 +6,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marcos-Macedo444&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Marcos Macêdo github stats" /> 
   
 
-  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Marcos-Macedo444&bg_color=000000&color=07bfe4&line=042f86&point=16c5c2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
   <br>
   
  # ⌨️ Skils ⌨️
