@@ -8,7 +8,7 @@
 
   <br>
   
- # ⌨️ Skils ⌨️
+ #  Skils 
   
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,7 +18,7 @@
   
   <br>
   
-  # ☁️ Contatos ☁️
+  #  Contatos 
     
   [<img  alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/marcos-mac%C3%AAdo-701137265/)
   <a href = "https://www.instagram.com/marcos_9898_/" target="_blank">
@@ -26,13 +26,33 @@
     </a>
   <a href = "mailto: marcosfilipe.macedo@gmail.com">
     <img width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
-  <br>
+  <br> <br>
   
-# 🐍 Commit Snake
+# Commit Snake
 
 <br>
 
 ![Snake animation](https://github.com/Marcos-Macedo444/Marcos-Macedo444/blob/output/github-contribution-grid-snake.svg)
+  
+# Estou estudando:
+  
+  [![Postgresql](https://skills.thijs.gg/icons?i=postgresql)](https://pt.wikipedia.org/wiki/postgresql)
+  [![Linux](https://skills.thijs.gg/icons?i=linux)](https://pt.wikipedia.org/wiki/linux)
+  [![JavaScript](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
+  [![Mysql](https://skills.thijs.gg/icons?i=mysql)](https://pt.wikipedia.org/wiki/mysql)
+  
+  <br>
+  
+# Irei estudar no futuro:
+  
+  [![Java](https://skills.thijs.gg/icons?i=java)](https://pt.wikipedia.org/wiki/java)
+  [![Node](https://skills.thijs.gg/icons?i=nodejs)](https://pt.wikipedia.org/wiki/nodejs)
+  [![Sass](https://skills.thijs.gg/icons?i=sass)](https://pt.wikipedia.org/wiki/sass)
+  [![Bootstrap](https://skills.thijs.gg/icons?i=bootstrap)](https://pt.wikipedia.org/wiki/CSS3)
+  [![Nextjs](https://skills.thijs.gg/icons?i=nextjs)](https://pt.wikipedia.org/wiki/nextjs)
+  [![TypeScript](https://skills.thijs.gg/icons?i=ts)](https://pt.wikipedia.org/wiki/TypeScript)
+  [![Python](https://skills.thijs.gg/icons?i=python)](https://pt.wikipedia.org/wiki/Python)  
+<br>
 
 
 
