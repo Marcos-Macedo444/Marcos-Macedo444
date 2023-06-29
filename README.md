@@ -6,8 +6,8 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marcos-Macedo444&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Marcos Macêdo github stats" /> 
 
   
-  <a href= "https://github.com/Marcos-macedo444">
-  <img align="right" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-macedo444&layout=compact&langs_count=16&theme=react"/>
+  <a href= "https://github.com/Marcos-Macedo444">
+  <img align="right" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Macedo444&layout=compact&langs_count=16&theme=react"/>
   <br>
   
  #  Skils 
