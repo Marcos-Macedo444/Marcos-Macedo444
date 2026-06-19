@@ -108,43 +108,6 @@ Atualmente, venho desenvolvendo conhecimentos em:
 ▸ Interesse contínuo em CyberSecurity e operações de segurança
 ```
 
----
-
-## 🧩 Projetos em destaque
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎬 CrazyCine</h3>
-      <p align="center">
-        Plataforma web de filmes desenvolvida com Flask, permitindo busca, listas personalizadas, autenticação, dashboard e funcionalidades de compra/aluguel.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQLite-1E90FF?style=for-the-badge&logo=sqlite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bootstrap-1E293B?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧪 Swag Labs QA</h3>
-      <p align="center">
-        Projeto acadêmico de testes de software com planejamento, criação de casos de teste, execução, reporte de defeitos e documentação.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/QA-0D1117?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Testes-1E90FF?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/Documentação-1E293B?style=for-the-badge"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
